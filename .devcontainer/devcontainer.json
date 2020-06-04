@@ -1,20 +1,20 @@
 {
-	"name": "vscode remote dev",
-	"dockerComposeFile": [
-		"../docker-compose.yml",
-	],
-	"service": "app",
-	"workspaceFolder": "/project",
-	"extensions": [
-		"donjayamanne.githistory",
-		"eamodio.gitlens",
-		"mhutchie.git-graph",
-		"github.vscode-pull-request-github",
-		"dbaeumer.vscode-eslint",
-		"esbenp.prettier-vscode",
-		"yzhang.markdown-all-in-one",
-		"octref.vetur",
-		"sdras.vue-vscode-snippets",
-		"fabiospampinato.vscode-todo-plus"
-	]
+  "name": "vscode remote dev",
+  "dockerComposeFile": [
+    "../docker-compose.yml",
+  ],
+  "service": "app",
+  "workspaceFolder": "/project",
+  "extensions": [
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "github.vscode-pull-request-github",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "yzhang.markdown-all-in-one",
+    "octref.vetur",
+    "sdras.vue-vscode-snippets",
+    "fabiospampinato.vscode-todo-plus"
+  ]
 }
